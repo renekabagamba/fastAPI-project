@@ -1,1 +1,2 @@
 uvicorn==0.20.0
+gunicorn
